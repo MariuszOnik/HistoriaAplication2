@@ -1,0 +1,60 @@
+/*#carusel-1-ramka{
+    position: absolute;
+    width: 19%;;
+    
+    top:49%;
+    
+    left:24.9%;
+    transform: translate(-50%, -50%) !important;
+  
+    
+    border-radius: 50%;
+    
+}*/
+
+
+#carusel-image-1{
+    position: absolute;
+    top: 35%;
+    left: 16.45%;
+    width: 16%;
+  
+    overflow: hidden !important;
+    border-radius: 50%;
+    
+    
+    animation-duration: 1s;
+}
+#carusel-image-2{
+    position: absolute;
+    top: 35%;
+    left: 42%;
+    width: 16%;
+  
+    overflow: hidden !important;
+    border-radius: 50%;
+    
+    
+    animation-duration: 1s;
+    
+}
+#carusel-image-3{
+    position: absolute;
+    top: 35%;
+    left: 67.55%;
+    width: 16%;
+  
+    overflow: hidden !important;
+    border-radius: 50%;
+    
+    
+    animation-duration: 1s;
+}
+
+.contrast-button{
+    position: absolute;
+    width: 6%;
+    top: 84%;
+    z-index: 1000;
+    left: 79%;
+}
